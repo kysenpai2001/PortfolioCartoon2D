@@ -7,7 +7,7 @@ Live Demo :
 
 Video demo:
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 I used a modified version of this original tileset (Giving credit where it's due) : https://momen-games.itch.io/happy-la-v2-ts
 
