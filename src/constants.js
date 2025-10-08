@@ -1,7 +1,7 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `Đây là máy tính của em. Hiện nay em chủ yếu làm việc với JavaScript/ReactJS.
+  pc: `Đây là máy tính của tôi. Hiện nay tôi chủ yếu làm việc với JavaScript/ReactJS.
     Em đã thực hiện một vài đồ án bằng ngôn ngữ đó. Em cũng thích C# và Python. Dù sao bất kể ngôn ngữ, em chỉ thích lập trình.
     Đây là của em <a href="https://github.com/kysenpai2001" target="_blank">Github</a>!`,
   "cs-degree": `Đây là bằng đại học của em. Em treo nó lên tường vì em tự hào về nó. Đó là một bằng cấp tuy lý thuyết nhiều nhưng em nghĩ nó đã cho em một nền tảng tốt.`,
